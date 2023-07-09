@@ -1,0 +1,35 @@
+demand forecast
+
+automatic quality checks on the items (Artist sample )
+
+Sentiment analysis with next recommendation actions for the artist shall be added.
+
+
+
+_____________________________
+
+
+
+Fake News -> Disinformation Detection On Social Media
+
+
+1) text news
+2) Image/Video Forgery/Edit Detection
+3) Instagram Fake accounts -> business
+
+
+
+_______________________________
+
+QR Based Banado Bc kuch
+
+______________________________________
+
+Audio to Sign Language Translator
+
+
+
+
+
+
+
